@@ -1,0 +1,27 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  font-size: 14px;
+}
+
+main {
+  min-height: 70vh;
+}
+
+.table {
+  text-align: center;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
